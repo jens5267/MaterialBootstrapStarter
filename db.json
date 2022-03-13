@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 1.23,
+      "date": "2022-03-12T23:00:00.000Z",
+      "comment": "A very fresh apple",
+      "id": 1
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 2,
+      "date": "2022-02-28T23:00:00.000Z",
+      "comment": "",
+      "id": 2
+    }
+  ]
+}
